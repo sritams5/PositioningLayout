@@ -1,0 +1,23 @@
+.wrap{
+	margin: auto;
+	width: 600px;
+	height: 400px;
+	background-color: gray;
+	position: relative;
+	/*top: 200px;
+	right: 200px;
+	bottom: 200px;
+	left: 200px;*/
+}
+body{
+	margin: 0;
+}
+.box{
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left:20px;
+	right: 20px;
+	margin: auto;
+}
